@@ -1,2 +1,2 @@
 # info4life
-spiders for my follwering informations and send email
+spiders for my following informations and send email,this makes my life easy and intelligent
