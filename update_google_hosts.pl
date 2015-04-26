@@ -68,11 +68,11 @@ my $mail_sub  =  "Google Hosts Update ";
 
 # smtp server setting
 my $smtp_server = 'smtp.126.com';
-my $smtp_user = 'mail4site';
-my $smtp_pwd  = '211314';
+my $smtp_user = 'smtpusername';
+my $smtp_pwd  = 'password';
 
-my $mail_from = 'mail4site@126.com';
-my $mail_to   = 'ff1210@126.com';
+my $mail_from = 'from@126.com';
+my $mail_to   = 'to@126.com';
 my $mail_file = $hostfile;
 
 &send_mail( 
